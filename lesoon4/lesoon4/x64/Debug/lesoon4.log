@@ -1,0 +1,7 @@
+﻿  Account.cpp
+Z:\B\ליבשיץ לאה\C++\lesoon4\lesoon4\Account.h(9,9): error C3646: 'code': unknown override specifier
+  (compiling source file 'Account.cpp')
+  
+Z:\B\ליבשיץ לאה\C++\lesoon4\lesoon4\Account.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Account.cpp')
+  
