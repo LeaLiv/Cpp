@@ -1,7 +1,10 @@
-﻿  Account.cpp
-Z:\B\ליבשיץ לאה\C++\lesoon4\lesoon4\Account.h(9,9): error C3646: 'code': unknown override specifier
-  (compiling source file 'Account.cpp')
+﻿  lesoon4.cpp
+C:\Lea\C++\Cpp\lesoon4\lesoon4\Account.h(26,39): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'lesoon4.cpp')
   
-Z:\B\ליבשיץ לאה\C++\lesoon4\lesoon4\Account.h(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-  (compiling source file 'Account.cpp')
+C:\Lea\C++\Cpp\lesoon4\lesoon4\Account.h(27,38): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'lesoon4.cpp')
   
+C:\Lea\C++\Cpp\lesoon4\lesoon4\lesoon4.cpp(68,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Lea\C++\Cpp\lesoon4\lesoon4\lesoon4.cpp(77,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  lesoon4.vcxproj -> C:\Lea\C++\Cpp\lesoon4\x64\Debug\lesoon4.exe
