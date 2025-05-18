@@ -1,0 +1,13 @@
+﻿  a.cpp
+  lesson6.cpp
+  List.cpp
+  RoundList.cpp
+  Generating Code...
+C:\Lea\C++\Cpp\lesson6\lesson6\RoundList.h(3,25): error C2504: 'List': base class undefined
+  (compiling source file 'RoundList.cpp')
+  
+C:\Lea\C++\Cpp\lesson6\lesson6\RoundList.cpp(2,7): error C2011: 'RoundList': 'class' type redefinition
+      C:\Lea\C++\Cpp\lesson6\lesson6\RoundList.h(3,7):
+      see declaration of 'RoundList'
+  
+C:\Lea\C++\Cpp\lesson6\lesson6\RoundList.cpp(3,1): error C1004: unexpected end-of-file found
